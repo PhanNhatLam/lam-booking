@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lam-booking/static/css/main.7266d9ef.css",
+    "main.js": "/lam-booking/static/js/main.aeccafd1.js",
+    "index.html": "/lam-booking/index.html",
+    "main.7266d9ef.css.map": "/lam-booking/static/css/main.7266d9ef.css.map",
+    "main.aeccafd1.js.map": "/lam-booking/static/js/main.aeccafd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7266d9ef.css",
+    "static/js/main.aeccafd1.js"
+  ]
+}
